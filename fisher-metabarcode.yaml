@@ -1,0 +1,13 @@
+name: fisher-metabarcode
+channels:
+ - conda-forge
+dependencies:
+ - r-base=4.3.2
+ - r-dada2=1.30.0
+ - r-ShortRead=1.60.0
+ - r-Biostrings=2.70.2
+ - r-phyloseq=1.46.0
+ - r-ggplot2=3.5.2
+ - r-stringr=1.5.1
+ - r-tidyr=1.3.1
+ - r-dplyr=1.1.4
