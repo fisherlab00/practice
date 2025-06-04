@@ -1,13 +1,15 @@
 rm(list = ls())
 
-library(dada2)
-library(ShortRead)
-library(Biostrings)
-library(phyloseq)
-library(ggplot2)
-library(stringr)
-library(tidyr)
-library(dplyr)
+# R version = 4.3.2
+
+library(dada2) # 1.30.0
+library(ShortRead) # 1.60.0
+library(Biostrings) # 2.70.2
+library(phyloseq) # 1.46.0
+library(ggplot2) # 3.5.2
+library(stringr) # 1.5.1
+library(tidyr) # 1.3.1
+library(dplyr) # 1.1.4
 set.seed(123456)
 
 
