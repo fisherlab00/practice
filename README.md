@@ -36,6 +36,11 @@ fisher-metabarcode can be "installed" by simply downloading the set of scripts i
 
 fisher-metabarcode can be run using our test dataset which can be downloaded from [Zenodo](https://zenodo.org/records/15594328).
 Unpack and save the demo data in a convenient location that you can use for the remaining usage tutorial.
+Install relevant pages using the ```.yaml``` files saved in ```envs```.
+
+```bash
+conda env create -f envs/fisher-metabarcode.yaml
+```
 
 fisher-metabarcode comes with a Bash script wrapper can be used on the command line like so:
 
