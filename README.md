@@ -30,6 +30,7 @@ BiocManager::install("biomaRt")
 ## Installation
 
 fisher-metabarcode can be "installed" by simply downloading the set of scripts inside ```scripts``` .
+You will be required install individual conda packages within their own environments. The relevant environments are contained within yaml files found in ```envs/```.
 
 
 ## Usage
