@@ -66,6 +66,7 @@ Please make sure to update tests as appropriate.
 ## Acknowledgements
 
 Attempted edit - Harry
+Attempted edit - Sam
 
 ## License
 
